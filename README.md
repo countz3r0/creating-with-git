@@ -1,4 +1,5 @@
 # Creating With Git
+## CountZ3r0 was here!
 
 ![Banner](/img/cwg_banner.png)
 
